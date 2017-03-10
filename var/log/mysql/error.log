@@ -1,0 +1,106 @@
+170310  4:05:16 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+170310  4:05:16 [Note] Plugin 'FEDERATED' is disabled.
+170310  4:05:16 InnoDB: The InnoDB memory heap is disabled
+170310  4:05:16 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+170310  4:05:16 InnoDB: Compressed tables use zlib 1.2.8
+170310  4:05:16 InnoDB: Using Linux native AIO
+170310  4:05:16 InnoDB: Initializing buffer pool, size = 128.0M
+170310  4:05:16 InnoDB: Completed initialization of buffer pool
+InnoDB: The first specified data file ./ibdata1 did not exist:
+InnoDB: a new database to be created!
+170310  4:05:16  InnoDB: Setting file ./ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+170310  4:05:37  InnoDB: Log file ./ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file ./ib_logfile0 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+170310  4:05:39  InnoDB: Log file ./ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file ./ib_logfile1 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+InnoDB: Doublewrite buffer not found: creating new
+InnoDB: Doublewrite buffer created
+InnoDB: 127 rollback segment(s) active.
+InnoDB: Creating foreign key constraint system tables
+InnoDB: Foreign key constraint system tables created
+170310  4:05:49  InnoDB: Waiting for the background threads to start
+170310  4:05:50 InnoDB: 5.5.54 started; log sequence number 0
+170310  4:05:52  InnoDB: Starting shutdown...
+170310  4:05:58  InnoDB: Shutdown completed; log sequence number 1595675
+170310  4:05:58 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+170310  4:05:58 [Note] Plugin 'FEDERATED' is disabled.
+170310  4:05:58 InnoDB: The InnoDB memory heap is disabled
+170310  4:05:58 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+170310  4:05:58 InnoDB: Compressed tables use zlib 1.2.8
+170310  4:05:58 InnoDB: Using Linux native AIO
+170310  4:05:58 InnoDB: Initializing buffer pool, size = 128.0M
+170310  4:05:58 InnoDB: Completed initialization of buffer pool
+170310  4:05:59 InnoDB: highest supported file format is Barracuda.
+170310  4:06:00  InnoDB: Waiting for the background threads to start
+170310  4:06:01 InnoDB: 5.5.54 started; log sequence number 1595675
+170310  4:06:01  InnoDB: Starting shutdown...
+170310  4:06:12  InnoDB: Shutdown completed; log sequence number 1595675
+170310  4:06:12 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+170310  4:06:12 [Note] Plugin 'FEDERATED' is disabled.
+170310  4:06:12 InnoDB: The InnoDB memory heap is disabled
+170310  4:06:12 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+170310  4:06:12 InnoDB: Compressed tables use zlib 1.2.8
+170310  4:06:12 InnoDB: Using Linux native AIO
+170310  4:06:12 InnoDB: Initializing buffer pool, size = 128.0M
+170310  4:06:12 InnoDB: Completed initialization of buffer pool
+170310  4:06:12 InnoDB: highest supported file format is Barracuda.
+170310  4:06:14  InnoDB: Waiting for the background threads to start
+170310  4:06:15 InnoDB: 5.5.54 started; log sequence number 1595675
+ERROR: 1064  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ALTER TABLE user ADD column Show_view_priv enum('N','Y') CHARACTER SET utf8 NOT ' at line 1
+170310  4:06:15 [ERROR] Aborting
+
+170310  4:06:15  InnoDB: Starting shutdown...
+170310  4:06:18  InnoDB: Shutdown completed; log sequence number 1595675
+170310  4:06:18 [Note] /usr/sbin/mysqld: Shutdown complete
+
+170310  4:06:18 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+170310  4:06:18 [Note] Plugin 'FEDERATED' is disabled.
+170310  4:06:18 InnoDB: The InnoDB memory heap is disabled
+170310  4:06:18 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+170310  4:06:18 InnoDB: Compressed tables use zlib 1.2.8
+170310  4:06:18 InnoDB: Using Linux native AIO
+170310  4:06:18 InnoDB: Initializing buffer pool, size = 128.0M
+170310  4:06:18 InnoDB: Completed initialization of buffer pool
+170310  4:06:18 InnoDB: highest supported file format is Barracuda.
+170310  4:06:20  InnoDB: Waiting for the background threads to start
+170310  4:06:21 InnoDB: 5.5.54 started; log sequence number 1595675
+170310  4:06:21  InnoDB: Starting shutdown...
+170310  4:06:23  InnoDB: Shutdown completed; log sequence number 1595675
+170310  4:06:24 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+170310  4:06:24 [Note] Plugin 'FEDERATED' is disabled.
+170310  4:06:24 InnoDB: The InnoDB memory heap is disabled
+170310  4:06:24 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+170310  4:06:24 InnoDB: Compressed tables use zlib 1.2.8
+170310  4:06:24 InnoDB: Using Linux native AIO
+170310  4:06:24 InnoDB: Initializing buffer pool, size = 128.0M
+170310  4:06:24 InnoDB: Completed initialization of buffer pool
+170310  4:06:24 InnoDB: highest supported file format is Barracuda.
+170310  4:06:24  InnoDB: Waiting for the background threads to start
+170310  4:06:25 InnoDB: 5.5.54 started; log sequence number 1595675
+ERROR: 1050  Table 'plugin' already exists
+170310  4:06:25 [ERROR] Aborting
+
+170310  4:06:25  InnoDB: Starting shutdown...
+170310  4:06:26  InnoDB: Shutdown completed; log sequence number 1595675
+170310  4:06:26 [Note] /usr/sbin/mysqld: Shutdown complete
+
+170310  4:06:41 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+170310  4:06:41 [Note] Plugin 'FEDERATED' is disabled.
+170310  4:06:41 InnoDB: The InnoDB memory heap is disabled
+170310  4:06:41 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+170310  4:06:41 InnoDB: Compressed tables use zlib 1.2.8
+170310  4:06:41 InnoDB: Using Linux native AIO
+170310  4:06:41 InnoDB: Initializing buffer pool, size = 128.0M
+170310  4:06:41 InnoDB: Completed initialization of buffer pool
+170310  4:06:41 InnoDB: highest supported file format is Barracuda.
+170310  4:06:49  InnoDB: Waiting for the background threads to start
+170310  4:06:50 InnoDB: 5.5.54 started; log sequence number 1595675
+170310  4:06:50 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+170310  4:06:50 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+170310  4:06:50 [Note] Server socket created on IP: '127.0.0.1'.
+170310  4:06:50 [Note] Event Scheduler: Loaded 0 events
+170310  4:06:50 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.5.54-0+deb8u1'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  (Raspbian)

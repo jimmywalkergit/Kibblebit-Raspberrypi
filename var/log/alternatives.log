@@ -1,0 +1,108 @@
+update-alternatives 2017-03-10 01:17:23: run with --remove builtins.7.gz /usr/share/man/man7/bash-builtins.7.gz
+update-alternatives 2017-03-10 01:17:23: link group builtins.7.gz fully removed
+update-alternatives 2017-03-10 01:22:30: run with --install /usr/share/man/man7/builtins.7.gz builtins.7.gz /usr/share/man/man7/bash-builtins.7.gz 10
+update-alternatives 2017-03-10 01:22:30: link group builtins.7.gz updated to point to /usr/share/man/man7/bash-builtins.7.gz
+update-alternatives 2017-03-10 02:48:28: run with --remove x-terminal-emulator /usr/bin/lxterminal
+update-alternatives 2017-03-10 02:48:28: link group x-terminal-emulator fully removed
+update-alternatives 2017-03-10 02:49:25: run with --remove x-window-manager /usr/bin/openbox-session
+update-alternatives 2017-03-10 03:08:30: run with --install /usr/bin/rename rename /usr/bin/prename 60 --slave /usr/share/man/man1/rename.1.gz rename.1.gz /usr/share/man/man1/prename.1.gz
+update-alternatives 2017-03-10 03:08:31: run with --install /bin/mt mt /bin/mt-gnu 10 --slave /usr/share/man/man1/mt.1.gz mt.1.gz /usr/share/man/man1/mt-gnu.1.gz
+update-alternatives 2017-03-10 03:16:49: run with --quiet --remove rlogin /usr/bin/ssh
+update-alternatives 2017-03-10 03:16:49: run with --quiet --remove rcp /usr/bin/ssh
+update-alternatives 2017-03-10 03:18:21: run with --install /usr/bin/rview rview /usr/bin/vim.tiny 10
+update-alternatives 2017-03-10 03:18:21: run with --install /usr/bin/vi vi /usr/bin/vim.tiny 10 --slave /usr/share/man/fr/man1/vi.1.gz vi.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/vi.1.gz vi.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/vi.1.gz vi.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/vi.1.gz vi.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/vi.1.gz vi.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/vi.1.gz vi.1.gz /usr/share/man/man1/vim.1.gz
+update-alternatives 2017-03-10 03:18:21: run with --install /usr/bin/view view /usr/bin/vim.tiny 10 --slave /usr/share/man/fr/man1/view.1.gz view.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/view.1.gz view.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/view.1.gz view.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/view.1.gz view.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/view.1.gz view.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/view.1.gz view.1.gz /usr/share/man/man1/vim.1.gz
+update-alternatives 2017-03-10 03:18:22: run with --install /usr/bin/ex ex /usr/bin/vim.tiny 10 --slave /usr/share/man/fr/man1/ex.1.gz ex.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/ex.1.gz ex.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/ex.1.gz ex.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/ex.1.gz ex.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/ex.1.gz ex.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/ex.1.gz ex.1.gz /usr/share/man/man1/vim.1.gz
+update-alternatives 2017-03-10 03:18:22: run with --install /usr/bin/editor editor /usr/bin/vim.tiny 10 --slave /usr/share/man/fr/man1/editor.1.gz editor.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/editor.1.gz editor.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/editor.1.gz editor.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/editor.1.gz editor.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/editor.1.gz editor.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/editor.1.gz editor.1.gz /usr/share/man/man1/vim.1.gz
+update-alternatives 2017-03-10 03:21:01: run with --quiet --install /sbin/dhcpcd dhcpcd /sbin/dhcpcd5 50 --slave /usr/share/man/man8/dhcpcd.8.gz dhcpcd.8.gz /usr/share/man/man8/dhcpcd5.8.gz
+update-alternatives 2017-03-10 03:21:18: run with --install /usr/bin/x-www-browser x-www-browser /usr/bin/epiphany-browser 85 --slave /usr/share/man/man1/x-www-browser.1.gz x-www-browser.1.gz /usr/share/man/man1/epiphany-browser.1.gz
+update-alternatives 2017-03-10 03:21:18: run with --install /usr/bin/gnome-www-browser gnome-www-browser /usr/bin/epiphany-browser 85 --slave /usr/share/man/man1/gnome-www-browser.1.gz gnome-www-browser.1.gz /usr/share/man/man1/epiphany-browser.1.gz
+update-alternatives 2017-03-10 03:23:56: run with --install /usr/bin/x-terminal-emulator x-terminal-emulator /usr/bin/lxterminal 40 --slave /usr/share/man/man1/x-terminal-emulator.1.gz x-terminal-emulator.1.gz /usr/share/man/man1/lxterminal.1.gz
+update-alternatives 2017-03-10 03:23:56: link group x-terminal-emulator updated to point to /usr/bin/lxterminal
+update-alternatives 2017-03-10 03:23:56: run with --install /usr/bin/x-window-manager x-window-manager /usr/bin/openbox 90 --slave /usr/share/man/man1/x-window-manager.1.gz x-window-manager.1.gz /usr/share/man/man1/openbox.1.gz
+update-alternatives 2017-03-10 03:23:57: run with --install /usr/bin/x-session-manager x-session-manager /usr/bin/openbox-session 40 --slave /usr/share/man/man1/x-session-manager.1.gz x-session-manager.1.gz /usr/share/man/man1/openbox-session.1.gz
+update-alternatives 2017-03-10 03:23:57: run with --install /usr/bin/java java /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/bin/java 318 --slave /usr/share/man/man1/java.1.gz java.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/java.1.gz
+update-alternatives 2017-03-10 03:23:57: link group java updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/bin/java
+update-alternatives 2017-03-10 03:23:57: run with --install /usr/bin/keytool keytool /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/bin/keytool 318 --slave /usr/share/man/man1/keytool.1.gz keytool.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/keytool.1.gz
+update-alternatives 2017-03-10 03:23:57: link group keytool updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/bin/keytool
+update-alternatives 2017-03-10 03:23:58: run with --install /usr/bin/orbd orbd /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/bin/orbd 318 --slave /usr/share/man/man1/orbd.1.gz orbd.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/orbd.1.gz
+update-alternatives 2017-03-10 03:23:58: link group orbd updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/bin/orbd
+update-alternatives 2017-03-10 03:23:58: run with --install /usr/bin/pack200 pack200 /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/bin/pack200 318 --slave /usr/share/man/man1/pack200.1.gz pack200.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/pack200.1.gz
+update-alternatives 2017-03-10 03:23:58: link group pack200 updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/bin/pack200
+update-alternatives 2017-03-10 03:23:58: run with --install /usr/bin/rmid rmid /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/bin/rmid 318 --slave /usr/share/man/man1/rmid.1.gz rmid.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/rmid.1.gz
+update-alternatives 2017-03-10 03:23:58: link group rmid updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/bin/rmid
+update-alternatives 2017-03-10 03:23:58: run with --install /usr/bin/rmiregistry rmiregistry /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/bin/rmiregistry 318 --slave /usr/share/man/man1/rmiregistry.1.gz rmiregistry.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/rmiregistry.1.gz
+update-alternatives 2017-03-10 03:23:58: link group rmiregistry updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/bin/rmiregistry
+update-alternatives 2017-03-10 03:23:59: run with --install /usr/bin/servertool servertool /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/bin/servertool 318 --slave /usr/share/man/man1/servertool.1.gz servertool.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/servertool.1.gz
+update-alternatives 2017-03-10 03:23:59: link group servertool updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/bin/servertool
+update-alternatives 2017-03-10 03:23:59: run with --install /usr/bin/tnameserv tnameserv /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/bin/tnameserv 318 --slave /usr/share/man/man1/tnameserv.1.gz tnameserv.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/tnameserv.1.gz
+update-alternatives 2017-03-10 03:23:59: link group tnameserv updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/bin/tnameserv
+update-alternatives 2017-03-10 03:24:00: run with --install /usr/bin/unpack200 unpack200 /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/bin/unpack200 318 --slave /usr/share/man/man1/unpack200.1.gz unpack200.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/unpack200.1.gz
+update-alternatives 2017-03-10 03:24:00: link group unpack200 updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/bin/unpack200
+update-alternatives 2017-03-10 03:24:00: run with --install /usr/bin/policytool policytool /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/bin/policytool 318 --slave /usr/share/man/man1/policytool.1.gz policytool.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/policytool.1.gz
+update-alternatives 2017-03-10 03:24:00: link group policytool updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/bin/policytool
+update-alternatives 2017-03-10 03:24:00: run with --install /usr/bin/policytool policytool /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/bin/policytool 318 --slave /usr/share/man/man1/policytool.1.gz policytool.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/policytool.1.gz
+update-alternatives 2017-03-10 03:24:00: run with --install /usr/bin/jexec jexec /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/lib/jexec 318
+update-alternatives 2017-03-10 03:24:00: link group jexec updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/jre/lib/jexec
+update-alternatives 2017-03-10 03:24:01: run with --install /usr/bin/appletviewer appletviewer /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/appletviewer 318 --slave /usr/share/man/man1/appletviewer.1.gz appletviewer.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/appletviewer.1.gz
+update-alternatives 2017-03-10 03:24:01: link group appletviewer updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/appletviewer
+update-alternatives 2017-03-10 03:24:01: run with --install /usr/bin/extcheck extcheck /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/extcheck 318 --slave /usr/share/man/man1/extcheck.1.gz extcheck.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/extcheck.1.gz
+update-alternatives 2017-03-10 03:24:01: link group extcheck updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/extcheck
+update-alternatives 2017-03-10 03:24:02: run with --install /usr/bin/idlj idlj /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/idlj 318 --slave /usr/share/man/man1/idlj.1.gz idlj.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/idlj.1.gz
+update-alternatives 2017-03-10 03:24:02: link group idlj updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/idlj
+update-alternatives 2017-03-10 03:24:02: run with --install /usr/bin/jar jar /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/jar 318 --slave /usr/share/man/man1/jar.1.gz jar.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/jar.1.gz
+update-alternatives 2017-03-10 03:24:02: link group jar updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/jar
+update-alternatives 2017-03-10 03:24:03: run with --install /usr/bin/jarsigner jarsigner /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/jarsigner 318 --slave /usr/share/man/man1/jarsigner.1.gz jarsigner.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/jarsigner.1.gz
+update-alternatives 2017-03-10 03:24:03: link group jarsigner updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/jarsigner
+update-alternatives 2017-03-10 03:24:03: run with --install /usr/bin/javac javac /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/javac 318 --slave /usr/share/man/man1/javac.1.gz javac.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/javac.1.gz
+update-alternatives 2017-03-10 03:24:03: link group javac updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/javac
+update-alternatives 2017-03-10 03:24:03: run with --install /usr/bin/javadoc javadoc /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/javadoc 318 --slave /usr/share/man/man1/javadoc.1.gz javadoc.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/javadoc.1.gz
+update-alternatives 2017-03-10 03:24:03: link group javadoc updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/javadoc
+update-alternatives 2017-03-10 03:24:04: run with --install /usr/bin/javah javah /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/javah 318 --slave /usr/share/man/man1/javah.1.gz javah.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/javah.1.gz
+update-alternatives 2017-03-10 03:24:04: link group javah updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/javah
+update-alternatives 2017-03-10 03:24:05: run with --install /usr/bin/javap javap /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/javap 318 --slave /usr/share/man/man1/javap.1.gz javap.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/javap.1.gz
+update-alternatives 2017-03-10 03:24:05: link group javap updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/javap
+update-alternatives 2017-03-10 03:24:05: run with --install /usr/bin/jcmd jcmd /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/jcmd 318 --slave /usr/share/man/man1/jcmd.1.gz jcmd.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/jcmd.1.gz
+update-alternatives 2017-03-10 03:24:05: link group jcmd updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/jcmd
+update-alternatives 2017-03-10 03:24:05: run with --install /usr/bin/jconsole jconsole /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/jconsole 318 --slave /usr/share/man/man1/jconsole.1.gz jconsole.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/jconsole.1.gz
+update-alternatives 2017-03-10 03:24:05: link group jconsole updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/jconsole
+update-alternatives 2017-03-10 03:24:05: run with --install /usr/bin/jdb jdb /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/jdb 318 --slave /usr/share/man/man1/jdb.1.gz jdb.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/jdb.1.gz
+update-alternatives 2017-03-10 03:24:05: link group jdb updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/jdb
+update-alternatives 2017-03-10 03:24:06: run with --install /usr/bin/jdeps jdeps /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/jdeps 318 --slave /usr/share/man/man1/jdeps.1.gz jdeps.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/jdeps.1.gz
+update-alternatives 2017-03-10 03:24:06: link group jdeps updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/jdeps
+update-alternatives 2017-03-10 03:24:10: run with --install /usr/bin/jhat jhat /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/jhat 318 --slave /usr/share/man/man1/jhat.1.gz jhat.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/jhat.1.gz
+update-alternatives 2017-03-10 03:24:10: link group jhat updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/jhat
+update-alternatives 2017-03-10 03:24:11: run with --install /usr/bin/jinfo jinfo /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/jinfo 318 --slave /usr/share/man/man1/jinfo.1.gz jinfo.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/jinfo.1.gz
+update-alternatives 2017-03-10 03:24:11: link group jinfo updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/jinfo
+update-alternatives 2017-03-10 03:24:11: run with --install /usr/bin/jmap jmap /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/jmap 318 --slave /usr/share/man/man1/jmap.1.gz jmap.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/jmap.1.gz
+update-alternatives 2017-03-10 03:24:11: link group jmap updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/jmap
+update-alternatives 2017-03-10 03:24:12: run with --install /usr/bin/jps jps /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/jps 318 --slave /usr/share/man/man1/jps.1.gz jps.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/jps.1.gz
+update-alternatives 2017-03-10 03:24:12: link group jps updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/jps
+update-alternatives 2017-03-10 03:24:12: run with --install /usr/bin/jrunscript jrunscript /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/jrunscript 318 --slave /usr/share/man/man1/jrunscript.1.gz jrunscript.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/jrunscript.1.gz
+update-alternatives 2017-03-10 03:24:12: link group jrunscript updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/jrunscript
+update-alternatives 2017-03-10 03:24:12: run with --install /usr/bin/jsadebugd jsadebugd /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/jsadebugd 318 --slave /usr/share/man/man1/jsadebugd.1.gz jsadebugd.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/jsadebugd.1.gz
+update-alternatives 2017-03-10 03:24:12: link group jsadebugd updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/jsadebugd
+update-alternatives 2017-03-10 03:24:13: run with --install /usr/bin/jstack jstack /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/jstack 318 --slave /usr/share/man/man1/jstack.1.gz jstack.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/jstack.1.gz
+update-alternatives 2017-03-10 03:24:13: link group jstack updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/jstack
+update-alternatives 2017-03-10 03:24:13: run with --install /usr/bin/jstat jstat /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/jstat 318 --slave /usr/share/man/man1/jstat.1.gz jstat.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/jstat.1.gz
+update-alternatives 2017-03-10 03:24:13: link group jstat updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/jstat
+update-alternatives 2017-03-10 03:24:13: run with --install /usr/bin/jstatd jstatd /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/jstatd 318 --slave /usr/share/man/man1/jstatd.1.gz jstatd.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/jstatd.1.gz
+update-alternatives 2017-03-10 03:24:13: link group jstatd updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/jstatd
+update-alternatives 2017-03-10 03:24:14: run with --install /usr/bin/native2ascii native2ascii /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/native2ascii 318 --slave /usr/share/man/man1/native2ascii.1.gz native2ascii.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/native2ascii.1.gz
+update-alternatives 2017-03-10 03:24:14: link group native2ascii updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/native2ascii
+update-alternatives 2017-03-10 03:24:14: run with --install /usr/bin/rmic rmic /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/rmic 318 --slave /usr/share/man/man1/rmic.1.gz rmic.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/rmic.1.gz
+update-alternatives 2017-03-10 03:24:14: link group rmic updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/rmic
+update-alternatives 2017-03-10 03:24:14: run with --install /usr/bin/schemagen schemagen /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/schemagen 318 --slave /usr/share/man/man1/schemagen.1.gz schemagen.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/schemagen.1.gz
+update-alternatives 2017-03-10 03:24:14: link group schemagen updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/schemagen
+update-alternatives 2017-03-10 03:24:15: run with --install /usr/bin/serialver serialver /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/serialver 318 --slave /usr/share/man/man1/serialver.1.gz serialver.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/serialver.1.gz
+update-alternatives 2017-03-10 03:24:15: link group serialver updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/serialver
+update-alternatives 2017-03-10 03:24:15: run with --install /usr/bin/wsgen wsgen /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/wsgen 318 --slave /usr/share/man/man1/wsgen.1.gz wsgen.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/wsgen.1.gz
+update-alternatives 2017-03-10 03:24:15: link group wsgen updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/wsgen
+update-alternatives 2017-03-10 03:24:15: run with --install /usr/bin/wsimport wsimport /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/wsimport 318 --slave /usr/share/man/man1/wsimport.1.gz wsimport.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/wsimport.1.gz
+update-alternatives 2017-03-10 03:24:15: link group wsimport updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/wsimport
+update-alternatives 2017-03-10 03:24:15: run with --install /usr/bin/xjc xjc /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/xjc 318 --slave /usr/share/man/man1/xjc.1.gz xjc.1.gz /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/man/man1/xjc.1.gz
+update-alternatives 2017-03-10 03:24:15: link group xjc updated to point to /usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/bin/xjc
+update-alternatives 2017-03-10 03:38:36: run with --install /usr/bin/php php /usr/bin/php5 50 --slave /usr/share/man/man1/php.1.gz php.1.gz /usr/share/man/man1/php5.1.gz
+update-alternatives 2017-03-10 03:38:36: link group php updated to point to /usr/bin/php5
+update-alternatives 2017-03-10 03:38:37: run with --install /usr/bin/phar phar /usr/bin/phar5 50 --slave /usr/share/man/man1/phar.1.gz phar.1.gz /usr/share/man/man1/phar5.1.gz
+update-alternatives 2017-03-10 03:38:37: link group phar updated to point to /usr/bin/phar5

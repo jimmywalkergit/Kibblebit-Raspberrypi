@@ -1,0 +1,99 @@
+Jan 30 11:17:17 raspberrypi kernel: [    0.000000] On node 0 totalpages: 114688
+Jan 30 11:17:17 raspberrypi kernel: [    0.000000] free_area_init_node: node 0, pgdat c088beac, node_mem_map db403000
+Jan 30 11:17:17 raspberrypi kernel: [    0.000000]   Normal zone: 1008 pages used for memmap
+Jan 30 11:17:17 raspberrypi kernel: [    0.000000]   Normal zone: 0 pages reserved
+Jan 30 11:17:17 raspberrypi kernel: [    0.000000]   Normal zone: 114688 pages, LIFO batch:31
+Jan 30 11:17:17 raspberrypi kernel: [    0.000000] pcpu-alloc: s0 r0 d32768 u32768 alloc=1*32768
+Jan 30 11:17:17 raspberrypi kernel: [    0.000000] pcpu-alloc: [0] 0 
+Jan 30 11:17:17 raspberrypi kernel: [    1.554923] dwc_otg: Microframe scheduler enabled
+Jan 30 11:17:17 raspberrypi kernel: [    1.702286] dwc_otg: FIQ enabled
+Jan 30 11:17:17 raspberrypi kernel: [    1.702317] dwc_otg: NAK holdoff enabled
+Jan 30 11:17:17 raspberrypi kernel: [    1.702332] dwc_otg: FIQ split-transaction FSM enabled
+Jan 30 11:17:17 raspberrypi kernel: [    1.702395] Module dwc_common_port init
+Jan 30 11:17:17 raspberrypi ntpd[536]: signal_no_reset: signal 17 had flags 4000000
+Jan 30 11:17:21 raspberrypi kernel: [    0.000000] On node 0 totalpages: 114688
+Jan 30 11:17:21 raspberrypi kernel: [    0.000000] free_area_init_node: node 0, pgdat c088beac, node_mem_map db403000
+Jan 30 11:17:21 raspberrypi kernel: [    0.000000]   Normal zone: 1008 pages used for memmap
+Jan 30 11:17:21 raspberrypi kernel: [    0.000000]   Normal zone: 0 pages reserved
+Jan 30 11:17:21 raspberrypi kernel: [    0.000000]   Normal zone: 114688 pages, LIFO batch:31
+Jan 30 11:17:21 raspberrypi kernel: [    0.000000] pcpu-alloc: s0 r0 d32768 u32768 alloc=1*32768
+Jan 30 11:17:21 raspberrypi kernel: [    0.000000] pcpu-alloc: [0] 0 
+Jan 30 11:17:21 raspberrypi kernel: [    1.554205] dwc_otg: Microframe scheduler enabled
+Jan 30 11:17:21 raspberrypi kernel: [    1.701558] dwc_otg: FIQ enabled
+Jan 30 11:17:21 raspberrypi kernel: [    1.701588] dwc_otg: NAK holdoff enabled
+Jan 30 11:17:21 raspberrypi kernel: [    1.701603] dwc_otg: FIQ split-transaction FSM enabled
+Jan 30 11:17:21 raspberrypi kernel: [    1.701668] Module dwc_common_port init
+Jan 30 11:17:21 raspberrypi ntpd[538]: signal_no_reset: signal 17 had flags 4000000
+Jan 30 11:17:15 raspberrypi kernel: [    0.000000] On node 0 totalpages: 114688
+Jan 30 11:17:15 raspberrypi kernel: [    0.000000] free_area_init_node: node 0, pgdat c088beac, node_mem_map db403000
+Jan 30 11:17:15 raspberrypi kernel: [    0.000000]   Normal zone: 1008 pages used for memmap
+Jan 30 11:17:15 raspberrypi kernel: [    0.000000]   Normal zone: 0 pages reserved
+Jan 30 11:17:15 raspberrypi kernel: [    0.000000]   Normal zone: 114688 pages, LIFO batch:31
+Jan 30 11:17:15 raspberrypi kernel: [    0.000000] pcpu-alloc: s0 r0 d32768 u32768 alloc=1*32768
+Jan 30 11:17:15 raspberrypi kernel: [    0.000000] pcpu-alloc: [0] 0 
+Jan 30 11:17:15 raspberrypi kernel: [    1.560160] dwc_otg: Microframe scheduler enabled
+Jan 30 11:17:15 raspberrypi kernel: [    1.674492] dwc_otg: FIQ enabled
+Jan 30 11:17:15 raspberrypi kernel: [    1.674519] dwc_otg: NAK holdoff enabled
+Jan 30 11:17:15 raspberrypi kernel: [    1.674533] dwc_otg: FIQ split-transaction FSM enabled
+Jan 30 11:17:15 raspberrypi kernel: [    1.674596] Module dwc_common_port init
+Jan 30 11:17:15 raspberrypi ntpd[523]: signal_no_reset: signal 17 had flags 4000000
+Jan 30 11:22:33 raspberrypi kernel: [  354.630289] sd 0:0:0:0: [sda] Mode Sense: 43 00 00 00
+Jan 30 11:17:19 raspberrypi kernel: [    0.000000] On node 0 totalpages: 114688
+Jan 30 11:17:19 raspberrypi kernel: [    0.000000] free_area_init_node: node 0, pgdat c088beac, node_mem_map db403000
+Jan 30 11:17:19 raspberrypi kernel: [    0.000000]   Normal zone: 1008 pages used for memmap
+Jan 30 11:17:19 raspberrypi kernel: [    0.000000]   Normal zone: 0 pages reserved
+Jan 30 11:17:19 raspberrypi kernel: [    0.000000]   Normal zone: 114688 pages, LIFO batch:31
+Jan 30 11:17:19 raspberrypi kernel: [    0.000000] pcpu-alloc: s0 r0 d32768 u32768 alloc=1*32768
+Jan 30 11:17:19 raspberrypi kernel: [    0.000000] pcpu-alloc: [0] 0 
+Jan 30 11:17:19 raspberrypi kernel: [    1.560088] dwc_otg: Microframe scheduler enabled
+Jan 30 11:17:19 raspberrypi kernel: [    1.674420] dwc_otg: FIQ enabled
+Jan 30 11:17:19 raspberrypi kernel: [    1.674446] dwc_otg: NAK holdoff enabled
+Jan 30 11:17:19 raspberrypi kernel: [    1.674458] dwc_otg: FIQ split-transaction FSM enabled
+Jan 30 11:17:19 raspberrypi kernel: [    1.674521] Module dwc_common_port init
+Jan 30 11:17:19 raspberrypi ntpd[528]: signal_no_reset: signal 17 had flags 4000000
+Mar  1 05:17:15 raspberrypi kernel: [    0.000000] On node 0 totalpages: 114688
+Mar  1 05:17:15 raspberrypi kernel: [    0.000000] free_area_init_node: node 0, pgdat c088beac, node_mem_map db403000
+Mar  1 05:17:15 raspberrypi kernel: [    0.000000]   Normal zone: 1008 pages used for memmap
+Mar  1 05:17:15 raspberrypi kernel: [    0.000000]   Normal zone: 0 pages reserved
+Mar  1 05:17:15 raspberrypi kernel: [    0.000000]   Normal zone: 114688 pages, LIFO batch:31
+Mar  1 05:17:15 raspberrypi kernel: [    0.000000] pcpu-alloc: s0 r0 d32768 u32768 alloc=1*32768
+Mar  1 05:17:15 raspberrypi kernel: [    0.000000] pcpu-alloc: [0] 0 
+Mar  1 05:17:15 raspberrypi kernel: [    1.559909] dwc_otg: Microframe scheduler enabled
+Mar  1 05:17:15 raspberrypi kernel: [    1.674191] dwc_otg: FIQ enabled
+Mar  1 05:17:15 raspberrypi kernel: [    1.674219] dwc_otg: NAK holdoff enabled
+Mar  1 05:17:15 raspberrypi kernel: [    1.674233] dwc_otg: FIQ split-transaction FSM enabled
+Mar  1 05:17:15 raspberrypi kernel: [    1.674296] Module dwc_common_port init
+Mar  1 05:17:15 raspberrypi ntpd[529]: signal_no_reset: signal 17 had flags 4000000
+Mar  9 23:11:11 raspberrypi kernel: [    0.000000] On node 0 totalpages: 114688
+Mar  9 23:11:11 raspberrypi kernel: [    0.000000] free_area_init_node: node 0, pgdat c088beac, node_mem_map db403000
+Mar  9 23:11:11 raspberrypi kernel: [    0.000000]   Normal zone: 1008 pages used for memmap
+Mar  9 23:11:11 raspberrypi kernel: [    0.000000]   Normal zone: 0 pages reserved
+Mar  9 23:11:11 raspberrypi kernel: [    0.000000]   Normal zone: 114688 pages, LIFO batch:31
+Mar  9 23:11:11 raspberrypi kernel: [    0.000000] pcpu-alloc: s0 r0 d32768 u32768 alloc=1*32768
+Mar  9 23:11:11 raspberrypi kernel: [    0.000000] pcpu-alloc: [0] 0 
+Mar  9 23:11:11 raspberrypi kernel: [    1.557546] dwc_otg: Microframe scheduler enabled
+Mar  9 23:11:11 raspberrypi kernel: [    1.696037] dwc_otg: FIQ enabled
+Mar  9 23:11:11 raspberrypi kernel: [    1.696067] dwc_otg: NAK holdoff enabled
+Mar  9 23:11:11 raspberrypi kernel: [    1.696081] dwc_otg: FIQ split-transaction FSM enabled
+Mar  9 23:11:11 raspberrypi kernel: [    1.696148] Module dwc_common_port init
+Mar  9 23:11:11 raspberrypi ntpd[516]: signal_no_reset: signal 17 had flags 4000000
+Mar  9 23:55:00 raspberrypi kernel: [    0.000000] On node 0 totalpages: 114688
+Mar  9 23:55:00 raspberrypi kernel: [    0.000000] free_area_init_node: node 0, pgdat c088beac, node_mem_map db403000
+Mar  9 23:55:00 raspberrypi kernel: [    0.000000]   Normal zone: 1008 pages used for memmap
+Mar  9 23:55:00 raspberrypi kernel: [    0.000000]   Normal zone: 0 pages reserved
+Mar  9 23:55:00 raspberrypi kernel: [    0.000000]   Normal zone: 114688 pages, LIFO batch:31
+Mar  9 23:55:00 raspberrypi kernel: [    0.000000] pcpu-alloc: s0 r0 d32768 u32768 alloc=1*32768
+Mar  9 23:55:00 raspberrypi kernel: [    0.000000] pcpu-alloc: [0] 0 
+Mar  9 23:55:00 raspberrypi kernel: [    1.556646] dwc_otg: Microframe scheduler enabled
+Mar  9 23:55:00 raspberrypi kernel: [    1.695130] dwc_otg: FIQ enabled
+Mar  9 23:55:00 raspberrypi kernel: [    1.695158] dwc_otg: NAK holdoff enabled
+Mar  9 23:55:00 raspberrypi kernel: [    1.695171] dwc_otg: FIQ split-transaction FSM enabled
+Mar  9 23:55:00 raspberrypi kernel: [    1.695232] Module dwc_common_port init
+Mar  9 23:55:00 raspberrypi ntpd[518]: signal_no_reset: signal 17 had flags 4000000
+Mar 10 00:02:24 raspberrypi kernel: [  466.201169] sd 0:0:0:0: [sda] Mode Sense: 45 00 00 08
+Mar 10 03:38:52 raspberrypi php5-cli: php5_invoke pdo: already enabled for cli SAPI
+Mar 10 03:38:53 raspberrypi php5-cli: php5_invoke json: already enabled for cli SAPI
+Mar 10 03:38:53 raspberrypi php5-cli: php5_invoke opcache: already enabled for cli SAPI
+Mar 10 03:39:24 raspberrypi libapache2-mod-php5: php5_invoke pdo: already enabled for apache2 SAPI
+Mar 10 03:39:25 raspberrypi libapache2-mod-php5: php5_invoke json: already enabled for apache2 SAPI
+Mar 10 03:39:25 raspberrypi libapache2-mod-php5: php5_invoke opcache: already enabled for apache2 SAPI

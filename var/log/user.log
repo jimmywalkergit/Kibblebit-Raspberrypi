@@ -1,0 +1,45 @@
+Jan 30 11:17:35 raspberrypi org.gtk.Private.AfcVolumeMonitor[673]: Volume monitor alive
+Jan 30 11:17:41 raspberrypi org.gtk.Private.UDisks2VolumeMonitor[673]: index_parse.c:191: indx_parse(): error opening /media/pi/SETTINGS/BDMV/index.bdmv
+Jan 30 11:17:41 raspberrypi org.gtk.Private.UDisks2VolumeMonitor[673]: index_parse.c:191: indx_parse(): error opening /media/pi/SETTINGS/BDMV/BACKUP/index.bdmv
+Jan 30 11:17:40 raspberrypi org.gtk.Private.AfcVolumeMonitor[672]: Volume monitor alive
+Jan 30 11:17:46 raspberrypi org.gtk.Private.UDisks2VolumeMonitor[672]: index_parse.c:191: indx_parse(): error opening /media/pi/SETTINGS/BDMV/index.bdmv
+Jan 30 11:17:46 raspberrypi org.gtk.Private.UDisks2VolumeMonitor[672]: index_parse.c:191: indx_parse(): error opening /media/pi/SETTINGS/BDMV/BACKUP/index.bdmv
+Jan 30 11:17:32 raspberrypi org.gtk.Private.AfcVolumeMonitor[660]: Volume monitor alive
+Jan 30 11:17:38 raspberrypi org.gtk.Private.UDisks2VolumeMonitor[660]: index_parse.c:191: indx_parse(): error opening /media/pi/SETTINGS/BDMV/index.bdmv
+Jan 30 11:17:38 raspberrypi org.gtk.Private.UDisks2VolumeMonitor[660]: index_parse.c:191: indx_parse(): error opening /media/pi/SETTINGS/BDMV/BACKUP/index.bdmv
+Jan 30 11:22:35 raspberrypi org.gtk.Private.UDisks2VolumeMonitor[660]: index_parse.c:191: indx_parse(): error opening /media/pi/Lexar/BDMV/index.bdmv
+Jan 30 11:22:35 raspberrypi org.gtk.Private.UDisks2VolumeMonitor[660]: index_parse.c:191: indx_parse(): error opening /media/pi/Lexar/BDMV/BACKUP/index.bdmv
+Jan 30 11:17:35 raspberrypi org.gtk.Private.AfcVolumeMonitor[661]: Volume monitor alive
+Jan 30 11:17:40 raspberrypi org.gtk.Private.UDisks2VolumeMonitor[661]: index_parse.c:191: indx_parse(): error opening /media/pi/SETTINGS/BDMV/index.bdmv
+Jan 30 11:17:40 raspberrypi org.gtk.Private.UDisks2VolumeMonitor[661]: index_parse.c:191: indx_parse(): error opening /media/pi/SETTINGS/BDMV/BACKUP/index.bdmv
+Mar  1 05:17:32 raspberrypi org.gtk.Private.AfcVolumeMonitor[667]: Volume monitor alive
+Mar  1 05:17:37 raspberrypi org.gtk.Private.UDisks2VolumeMonitor[667]: index_parse.c:191: indx_parse(): error opening /media/pi/SETTINGS/BDMV/index.bdmv
+Mar  1 05:17:37 raspberrypi org.gtk.Private.UDisks2VolumeMonitor[667]: index_parse.c:191: indx_parse(): error opening /media/pi/SETTINGS/BDMV/BACKUP/index.bdmv
+Mar  9 23:10:25 raspberrypi org.gtk.vfs.Daemon[667]: A connection to the bus can't be made
+Mar  9 23:10:25 raspberrypi org.gtk.vfs.Daemon[667]: g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+Mar  9 23:10:25 raspberrypi org.gtk.Private.UDisks2VolumeMonitor[667]: g_dbus_connection_real_closed: Remote peer vanished with error: Error receiving message: Connection reset by peer (g-io-error-quark, 0). Exiting.
+Mar  9 23:10:25 raspberrypi org.gtk.Private.GPhoto2VolumeMonitor[667]: g_dbus_connection_real_closed: Remote peer vanished with error: Error receiving message: Connection reset by peer (g-io-error-quark, 0). Exiting.
+Mar  9 23:10:25 raspberrypi org.gtk.Private.GoaVolumeMonitor[667]: g_dbus_connection_real_closed: Remote peer vanished with error: Error receiving message: Connection reset by peer (g-io-error-quark, 0). Exiting.
+Mar  9 23:10:25 raspberrypi org.gtk.Private.AfcVolumeMonitor[667]: g_dbus_connection_real_closed: Remote peer vanished with error: Error receiving message: Connection reset by peer (g-io-error-quark, 0). Exiting.
+Mar  9 23:10:25 raspberrypi org.gtk.Private.MTPVolumeMonitor[667]: g_dbus_connection_real_closed: Remote peer vanished with error: Error receiving message: Connection reset by peer (g-io-error-quark, 0). Exiting.
+Mar  9 23:10:25 raspberrypi org.gtk.vfs.Daemon[667]: g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+Mar  9 23:10:25 raspberrypi org.gtk.vfs.Daemon[667]: A connection to the bus can't be made
+Mar  9 23:10:25 raspberrypi org.gtk.vfs.Daemon[667]: g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+Mar  9 23:13:17 raspberrypi org.gtk.Private.AfcVolumeMonitor[813]: Volume monitor alive
+Mar  9 23:13:23 raspberrypi org.gtk.Private.UDisks2VolumeMonitor[813]: index_parse.c:191: indx_parse(): error opening /media/pi/SETTINGS/BDMV/index.bdmv
+Mar  9 23:13:23 raspberrypi org.gtk.Private.UDisks2VolumeMonitor[813]: index_parse.c:191: indx_parse(): error opening /media/pi/SETTINGS/BDMV/BACKUP/index.bdmv
+Mar  9 23:54:00 raspberrypi org.gtk.vfs.Daemon[813]: A connection to the bus can't be made
+Mar  9 23:54:00 raspberrypi org.gtk.vfs.Daemon[813]: g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+Mar  9 23:54:00 raspberrypi org.gtk.Private.UDisks2VolumeMonitor[813]: g_dbus_connection_real_closed: Remote peer vanished with error: Error receiving message: Connection reset by peer (g-io-error-quark, 0). Exiting.
+Mar  9 23:54:00 raspberrypi org.gtk.Private.GPhoto2VolumeMonitor[813]: g_dbus_connection_real_closed: Remote peer vanished with error: Error receiving message: Connection reset by peer (g-io-error-quark, 0). Exiting.
+Mar  9 23:54:00 raspberrypi org.gtk.Private.GoaVolumeMonitor[813]: g_dbus_connection_real_closed: Remote peer vanished with error: Error receiving message: Connection reset by peer (g-io-error-quark, 0). Exiting.
+Mar  9 23:54:00 raspberrypi org.gtk.Private.AfcVolumeMonitor[813]: g_dbus_connection_real_closed: Remote peer vanished with error: Error receiving message: Connection reset by peer (g-io-error-quark, 0). Exiting.
+Mar  9 23:54:00 raspberrypi org.gtk.Private.MTPVolumeMonitor[813]: g_dbus_connection_real_closed: Remote peer vanished with error: Error receiving message: Connection reset by peer (g-io-error-quark, 0). Exiting.
+Mar  9 23:54:00 raspberrypi org.gtk.vfs.Daemon[813]: g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+Mar  9 23:54:00 raspberrypi org.gtk.vfs.Daemon[813]: A connection to the bus can't be made
+Mar  9 23:54:00 raspberrypi org.gtk.vfs.Daemon[813]: g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+Mar  9 23:55:23 raspberrypi org.gtk.Private.AfcVolumeMonitor[659]: Volume monitor alive
+Mar  9 23:55:29 raspberrypi org.gtk.Private.UDisks2VolumeMonitor[659]: index_parse.c:191: indx_parse(): error opening /media/pi/SETTINGS/BDMV/index.bdmv
+Mar  9 23:55:29 raspberrypi org.gtk.Private.UDisks2VolumeMonitor[659]: index_parse.c:191: indx_parse(): error opening /media/pi/SETTINGS/BDMV/BACKUP/index.bdmv
+Mar 10 00:02:26 raspberrypi org.gtk.Private.UDisks2VolumeMonitor[659]: index_parse.c:191: indx_parse(): error opening /media/pi/4029-BA9C/BDMV/index.bdmv
+Mar 10 00:02:26 raspberrypi org.gtk.Private.UDisks2VolumeMonitor[659]: index_parse.c:191: indx_parse(): error opening /media/pi/4029-BA9C/BDMV/BACKUP/index.bdmv

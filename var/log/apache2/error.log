@@ -1,0 +1,11 @@
+[Fri Mar 10 03:33:09.307355 2017] [mpm_event:notice] [pid 15545:tid 3069604368] AH00489: Apache/2.4.10 (Raspbian) configured -- resuming normal operations
+[Fri Mar 10 03:33:09.312077 2017] [core:notice] [pid 15545:tid 3069604368] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Mar 10 03:39:40.601436 2017] [mpm_event:notice] [pid 15545:tid 3069604368] AH00491: caught SIGTERM, shutting down
+[Fri Mar 10 03:39:43.333078 2017] [mpm_prefork:notice] [pid 17950] AH00163: Apache/2.4.10 (Raspbian) configured -- resuming normal operations
+[Fri Mar 10 03:39:43.340005 2017] [core:notice] [pid 17950] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Mar 10 03:40:04.932884 2017] [mpm_prefork:notice] [pid 17950] AH00169: caught SIGTERM, shutting down
+[Fri Mar 10 03:40:09.386160 2017] [mpm_prefork:notice] [pid 18062] AH00163: Apache/2.4.10 (Raspbian) configured -- resuming normal operations
+[Fri Mar 10 03:40:09.387621 2017] [core:notice] [pid 18062] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Mar 10 04:21:03.986318 2017] [mpm_prefork:notice] [pid 18062] AH00169: caught SIGTERM, shutting down
+[Fri Mar 10 04:21:07.406107 2017] [mpm_prefork:notice] [pid 23997] AH00163: Apache/2.4.10 (Raspbian) configured -- resuming normal operations
+[Fri Mar 10 04:21:07.406595 2017] [core:notice] [pid 23997] AH00094: Command line: '/usr/sbin/apache2'
